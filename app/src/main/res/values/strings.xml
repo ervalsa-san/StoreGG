@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StoreGG</string>
+    <string name="selamat_datang">Selamat datang,</string>
+    <string name="name">Ervalsa Dwi Nanda</string>
+    <string name="rekomendasi_game">Rekomendasi Game</string>
+    <string name="game_name">God Of War (Apr 20, 2018)</string>
+    <string name="game_genre">Adventure, Hack and slash/Beat \'em up</string>
+    <string name="game_company">SIE Santa Monica Studio</string>
+    <string name="game_platform">PlayStation 4, PC (Microsoft Windows)</string>
+    <string name="company">Company</string>
+    <string name="genre">Genre</string>
+    <string name="platform">Platform</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="game_description">God of War is the sequel to God of War III as well as a continuation of the canon God of War chronology. Unlike previous installments, this game focuses on Norse mythology and follows an older and more seasoned Kratos and his son Atreus in the years since the third game. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.</string>
+    <string name="beli_game">Beli Game</string>
+    <string name="developer_name">Ervalsa Dwi Nanda</string>
+    <string name="developer_email">ervalsananda@gmail.com</string>
+</resources>
